@@ -1,7 +1,7 @@
 export const siteConfig = {
   name: "Mariachis el rey",
   description: "Somos mariachis queremos llevar la agenda de citas de clientes, queremos que los clientes vean los planes que tenemos y coordinar fechas y disponibilidad de los empleados",
-  archetype: "saas_tool" as
+  archetype: "storefront" as
     | "storefront"
     | "dashboard"
     | "workflow"
